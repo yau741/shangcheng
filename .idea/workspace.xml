@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e64484db-0f4e-4aa5-9010-8d5f9fff9490" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/1709Cgit/code-template" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\2020\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1g5Bvi7xfIiWGAVfXjRU7Mt27IN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.235" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.goods.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\goods\service\impl" />
+      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\goods\service" />
+      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\goods\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="changgou-common" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-goods" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.goods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.goods.GoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Spring Boot.GoodsApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e64484db-0f4e-4aa5-9010-8d5f9fff9490" name="Default Changelist" comment="" />
+      <created>1597394805055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597394805055</updated>
+      <workItem from="1597394808110" duration="5773000" />
+      <workItem from="1597401768276" duration="9238000" />
+      <workItem from="1597450234093" duration="12000000" />
+      <workItem from="1597573946217" duration="1986000" />
+      <workItem from="1597578367365" duration="278000" />
+      <workItem from="1597578667409" duration="3315000" />
+      <workItem from="1597584028664" duration="159000" />
+      <workItem from="1597629765679" duration="2156000" />
+      <workItem from="1597660561790" duration="8660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="938" y="112" key="#Project_Structure" timestamp="1597456602318">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="938" y="112" key="#Project_Structure/95.0.1825.1080@95.0.1825.1080" timestamp="1597456602318" />
+    <state x="988" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1597580408845">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="988" y="157" key="#com.intellij.ide.util.MemberChooser/95.0.1825.1080@95.0.1825.1080" timestamp="1597580408845" />
+    <state x="1119" y="157" key="FileChooserDialogImpl" timestamp="1597669342810">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="1119" y="157" key="FileChooserDialogImpl/95.0.1825.1080@95.0.1825.1080" timestamp="1597669342810" />
+    <state width="1008" height="204" key="GridCell.Tab.0.bottom" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.0.bottom/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1008" height="204" key="GridCell.Tab.0.center" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.0.center/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1008" height="204" key="GridCell.Tab.0.left" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.0.left/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1008" height="204" key="GridCell.Tab.0.right" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.0.right/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1008" height="204" key="GridCell.Tab.1.bottom" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.1.bottom/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1008" height="204" key="GridCell.Tab.1.center" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.1.center/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1008" height="204" key="GridCell.Tab.1.left" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.1.left/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1008" height="204" key="GridCell.Tab.1.right" timestamp="1597636118141">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1008" height="204" key="GridCell.Tab.1.right/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state x="1200" y="249" key="NewModule_or_Project.wizard" timestamp="1597660895281">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="1200" y="249" key="NewModule_or_Project.wizard/95.0.1825.1080@95.0.1825.1080" timestamp="1597660895281" />
+    <state x="436" y="152" width="1187" height="741" key="SettingsEditor" timestamp="1597669230062">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="436" y="152" width="1187" height="741" key="SettingsEditor/95.0.1825.1080@95.0.1825.1080" timestamp="1597669230062" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1597409479968">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/95.0.1825.1080@95.0.1825.1080" timestamp="1597409479968" />
+    <state x="798" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1597660562216">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="798" y="283" key="com.intellij.ide.util.TipDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597660562216" />
+    <state x="1297" y="176" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597460650187">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="1297" y="176" key="com.intellij.testIntegration.createTest.CreateTestDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597460650187" />
+    <state x="621" y="168" key="new project wizard" timestamp="1597660885402">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="621" y="168" key="new project wizard/95.0.1825.1080@95.0.1825.1080" timestamp="1597660885402" />
+  </component>
+</project>
