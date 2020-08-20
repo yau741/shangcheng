@@ -6,17 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="changgou-service-user-api" />
-        <module name="changgou-service-user" />
         <module name="code-template" />
-        <module name="changgou-service-search-api" />
-        <module name="changgou_service_search" />
-        <module name="changgou-service-cana" />
         <module name="changgou-common" />
-        <module name="changgou-gateway-web" />
+        <module name="changgou-gateway" />
         <module name="changgou_eureka" />
         <module name="changgou-common-db" />
-        <module name="changgou-service-content-api" />
         <module name="changgou-web" />
         <module name="changgou-service-goods-api" />
         <module name="changgou-service-file" />
@@ -24,7 +18,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="changgou-gateway-web" target="1.8" />
+      <module name="changgou-service-cana" target="1.8" />
+      <module name="changgou-service-content-api" target="1.8" />
+      <module name="changgou-service-search-api" target="1.8" />
+      <module name="changgou-service-user" target="1.8" />
+      <module name="changgou-service-user-api" target="1.8" />
       <module name="changgou_gateway_system" target="1.8" />
+      <module name="changgou_service_search" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

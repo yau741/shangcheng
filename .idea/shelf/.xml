@@ -1,0 +1,354 @@
+<changelist name="第一次提交" date="1597916397360" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/shelved.patch" />
+  <option name="DESCRIPTION" value="第一次提交" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service-file/target/classes/com/changgou/controller/FileController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/FileController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service-file/target/classes/com/changgou/file/FastDFSFile.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/FastDFSFile.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service-file/target/classes/com/changgou/util/FastDFSClient.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/FastDFSClient.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service-file/target/classes/com/changgou/FileApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/FileApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service-file/target/test-classes/com/changgou/file/test/FastdfsClientTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/FastdfsClientTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/AlbumController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AlbumController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/BrandController.class" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/BrandController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/BrandController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/CategoryController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/CategoryController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/ParaController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ParaController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/SkuController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SkuController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/SpecController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpecController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/SpuController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpuController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/TemplateController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/TemplateController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/AlbumMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AlbumMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/BrandMapper.class" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/BrandMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/BrandMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/CategoryMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/CategoryMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/ParaMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ParaMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/SkuMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SkuMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/SpecMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpecMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/SpuMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpuMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/TemplateMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/TemplateMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/AlbumServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AlbumServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/BrandServiceImpl.class" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/BrandServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/BrandServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/CategoryServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/CategoryServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/ParaServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ParaServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/SkuServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SkuServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/SpecServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpecServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/SpuServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpuServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/TemplateServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/TemplateServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/AlbumService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AlbumService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/BrandService.class" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/BrandService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/BrandService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/CategoryService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/CategoryService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/ParaService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ParaService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/SkuService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SkuService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/SpecService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpecService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/SpuService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/SpuService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/TemplateService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/TemplateService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/GoodsApplication.class" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/com/changgou/goods/GoodsApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/GoodsApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-goods/target/classes/META-INF/changgou-service-goods.kotlin_module" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/changgou-service-goods.kotlin_module" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Album.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Album.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Category.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Category.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Goods.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Goods.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Para.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Para.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Sku.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Sku.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Spec.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Spec.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Spu.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Spu.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-goods-api/target/classes/com/changgou/goods/pojo/Template.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Template.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/controller/AdminController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AdminController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/controller/UserController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/UserController.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/dao/AdminMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AdminMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/dao/UserMapper.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/UserMapper.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/service/impl/AdminServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AdminServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/service/impl/UserServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/UserServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/service/AdminService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/AdminService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/user/service/UserService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/UserService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou-service/changgou-service-user/target/classes/com/changgou/UserApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/UserApplication.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-user-api/target/classes/com/changgou/pojo/Admin.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/Admin.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="changgou_service_api/changgou-service-user-api/target/classes/com/changgou/pojo/User.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/User.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/BuilderFactory.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ControllerBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/DaoBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/PojoBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ServiceBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ServiceImplBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/TemplateBuilder.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/TemplateUtil.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/util/JavaTypes.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/util/JavaTypes.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/JavaTypes.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/util/ModelInfo.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/util/ModelInfo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/ModelInfo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/util/StringUtils.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/code/util/StringUtils.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/StringUtils.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/CodeApplication.class" />
+    <option name="AFTER_PATH" value="../../../1709Cgit/code-template/target/classes/com/itheima/CodeApplication.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/第一次提交/CodeApplication.class" />
+  </binary>
+</changelist>
