@@ -10,6 +10,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/changgou-gateway/changgou_gateway_system/pom.xml" />
         <option value="$PROJECT_DIR$/changgou-service-goods-api/pom.xml" />
         <option value="$PROJECT_DIR$/changgou-service-goods/pom.xml" />
       </set>

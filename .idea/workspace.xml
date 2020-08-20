@@ -1,7 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e64484db-0f4e-4aa5-9010-8d5f9fff9490" name="Default Changelist" comment="" />
+    <list default="true" id="e64484db-0f4e-4aa5-9010-8d5f9fff9490" name="Default Changelist" comment="第一次提交">
+      <change afterPath="D:/1709Cgit/code-template/src/main/java/entity/Page.java" afterDir="false" />
+      <change afterPath="D:/1709Cgit/code-template/src/main/java/entity/PageResult.java" afterDir="false" />
+      <change afterPath="D:/1709Cgit/code-template/src/main/java/entity/Result.java" afterDir="false" />
+      <change afterPath="D:/1709Cgit/code-template/src/main/java/entity/StatusCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-common/src/main/java/com/changgou/entity/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-common/src/main/java/com/entity/JwtUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-common/src/main/java/com/filter/AuthorizeFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-common/src/test/java/JwtTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-gateway/changgou-gateway-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-gateway/changgou-gateway-web/src/main/java/com/changgou/GatewayWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-gateway/changgou-gateway-web/src/main/java/com/changgou/filter/IpFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-gateway/changgou-gateway-web/src/main/java/com/changgou/filter/UrlFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-gateway/changgou-gateway-web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-cana/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-cana/src/main/java/com/changgou/CanalApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-cana/src/main/java/com/changgou/canal/listener/CanalDataEventListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-cana/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/controller/SkuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/controller/SpuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/impl/SkuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/impl/SpuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/UserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/dao/AdminMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/java/com/changgou/user/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou-service-user/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/src/main/java/com/changgou/SearchApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/src/main/java/com/changgou/search/dao/SkuEsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/src/main/java/com/changgou/search/servcie/SearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/src/main/java/com/changgou/search/servcie/SkuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/src/main/java/com/changgou/search/servcie/impl/SearchServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/src/main/java/com/changgou/search/servcie/impl/SkuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou-service/changgou_service_search/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-content-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-content-api/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/src/main/java/com/changgou/goods/feign/SkuFeign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-search-api/changgou-service-search-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-search-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-search-api/src/main/java/com/changgou/search/pojo/SkuInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-user-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-user-api/src/main/java/com/changgou/pojo/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-user-api/src/main/java/com/changgou/pojo/User.java" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/code-template.iml" beforeDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/pom.xml" beforeDir="false" afterPath="D:/1709Cgit/code-template/pom.xml" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/src/main/java/com/itheima/code/util/StringUtils.java" beforeDir="false" afterPath="D:/1709Cgit/code-template/src/main/java/com/itheima/code/util/StringUtils.java" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/src/main/resources/application.properties" beforeDir="false" afterPath="D:/1709Cgit/code-template/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/application.properties" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/application.properties" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/CodeApplication.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/CodeApplication.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/BuilderFactory.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/ControllerBuilder.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/DaoBuilder.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/PojoBuilder.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceBuilder.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/ServiceImplBuilder.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateBuilder.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/build/TemplateUtil.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/util/JavaTypes.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/util/JavaTypes.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/util/ModelInfo.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/util/ModelInfo.class" afterDir="false" />
+      <change beforePath="D:/1709Cgit/code-template/target/classes/com/itheima/code/util/StringUtils.class" beforeDir="false" afterPath="D:/1709Cgit/code-template/target/classes/com/itheima/code/util/StringUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/file/FastDFSFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/file/FastDFSFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/util/FastDFSClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/util/FastDFSClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service-file/src/main/resources/fdfs_client.conf" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service-file/src/main/resources/fdfs_client.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/dao/SkuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/dao/SkuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/dao/SpuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/dao/SpuMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/SkuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/SkuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/SpuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/service/SpuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/GoodsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/GoodsApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/BrandController.class" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/controller/BrandController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/BrandMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/dao/BrandMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/BrandService.class" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/BrandService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/BrandServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/changgou-service-goods/target/classes/com/changgou/goods/service/impl/BrandServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/src/main/java/com/changgou/goods/pojo/Sku.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/src/main/java/com/changgou/goods/pojo/Sku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/src/main/java/com/changgou/goods/pojo/Spu.java" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/src/main/java/com/changgou/goods/pojo/Spu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changgou_service_api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/changgou_service_api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +103,20 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,7 +127,14 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="D:/1709Cgit/code-template" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\2020\demo\changgou_parent\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -38,20 +153,23 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1g5Bvi7xfIiWGAVfXjRU7Mt27IN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/changgou_service_api/changgou-service-goods-api/src/main/java/com/changgou/goods" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,18 +183,30 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.user.dao" />
+      <recent name="com.changgou.pojo" />
+      <recent name="com.changgou.goods.util" />
+      <recent name="com.changgou.goods.service.impl" />
       <recent name="com.changgou.goods.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\goods\service\impl" />
-      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\goods\service" />
-      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-goods\src\main\java\com\changgou\goods\dao" />
+      <recent name="D:\2020\demo\changgou_parent\changgou_service_api\changgou-service-goods-api\src\main\java\com\changgou\goods" />
+      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-user\src\main\java\com\changgou\user\controller" />
+      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-user\src\main\java\com\changgou\user\service\impl" />
+      <recent name="D:\2020\demo\changgou_parent\changgou-service\changgou-service-user\src\main\java\com\changgou\user\service" />
+      <recent name="D:\1709Cgit\code-template\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="changgou-common" />
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration name="CodeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.CodeApplication" />
+      <module name="code-template" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,6 +224,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FileApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-file" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.FileApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="changgou-service-goods" />
       <extension name="coverage">
@@ -107,11 +250,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-service-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Spring Boot.GoodsApplication" />
+        <item itemvalue="Spring Boot.UserApplication" />
         <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.FileApplication" />
+        <item itemvalue="Application.CodeApplication" />
+        <item itemvalue="Spring Boot.GoodsApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -145,62 +303,157 @@
       <workItem from="1597578667409" duration="3315000" />
       <workItem from="1597584028664" duration="159000" />
       <workItem from="1597629765679" duration="2156000" />
-      <workItem from="1597660561790" duration="8660000" />
+      <workItem from="1597660561790" duration="10022000" />
+      <workItem from="1597715598904" duration="6629000" />
+      <workItem from="1597728844219" duration="9070000" />
+      <workItem from="1597753884502" duration="1826000" />
+      <workItem from="1597801851023" duration="2868000" />
+      <workItem from="1597815202618" duration="11998000" />
+      <workItem from="1597888572701" duration="1201000" />
+      <workItem from="1597902254440" duration="200000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1597669542192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597669542192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="938" y="112" key="#Project_Structure" timestamp="1597456602318">
+    <state x="938" y="112" key="#Project_Structure" timestamp="1597806441653">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="938" y="112" key="#Project_Structure/95.0.1825.1080@95.0.1825.1080" timestamp="1597456602318" />
-    <state x="988" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1597580408845">
+    <state x="938" y="112" key="#Project_Structure/95.0.1825.1080@95.0.1825.1080" timestamp="1597806441653" />
+    <state x="988" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1597835235268">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="988" y="157" key="#com.intellij.ide.util.MemberChooser/95.0.1825.1080@95.0.1825.1080" timestamp="1597580408845" />
-    <state x="1119" y="157" key="FileChooserDialogImpl" timestamp="1597669342810">
+    <state x="988" y="157" key="#com.intellij.ide.util.MemberChooser/95.0.1825.1080@95.0.1825.1080" timestamp="1597835235268" />
+    <state x="910" y="398" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1597819722008">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="1119" y="157" key="FileChooserDialogImpl/95.0.1825.1080@95.0.1825.1080" timestamp="1597669342810" />
-    <state width="1008" height="204" key="GridCell.Tab.0.bottom" timestamp="1597636118141">
+    <state x="910" y="398" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597819722008" />
+    <state x="737" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597717384688">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.0.bottom/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
-    <state width="1008" height="204" key="GridCell.Tab.0.center" timestamp="1597636118141">
+    <state x="737" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597717384688" />
+    <state x="513" y="140" key="CommitChangelistDialog2" timestamp="1597913852890">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.0.center/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
-    <state width="1008" height="204" key="GridCell.Tab.0.left" timestamp="1597636118141">
+    <state x="513" y="140" key="CommitChangelistDialog2/95.0.1825.1080@95.0.1825.1080" timestamp="1597913852890" />
+    <state x="444" y="90" width="1460" height="890" key="DiffContextDialog" timestamp="1597752313764">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.0.left/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
-    <state width="1008" height="204" key="GridCell.Tab.0.right" timestamp="1597636118141">
+    <state x="444" y="90" width="1460" height="890" key="DiffContextDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597752313764" />
+    <state x="1119" y="157" key="FileChooserDialogImpl" timestamp="1597913873408">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.0.right/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
-    <state width="1008" height="204" key="GridCell.Tab.1.bottom" timestamp="1597636118141">
+    <state x="1119" y="157" key="FileChooserDialogImpl/95.0.1825.1080@95.0.1825.1080" timestamp="1597913873408" />
+    <state width="1325" height="313" key="GridCell.Tab.0.bottom" timestamp="1597842821419">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.1.bottom/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
-    <state width="1008" height="204" key="GridCell.Tab.1.center" timestamp="1597636118141">
+    <state width="1325" height="313" key="GridCell.Tab.0.bottom/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821419" />
+    <state width="1325" height="313" key="GridCell.Tab.0.center" timestamp="1597842821419">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.1.center/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
-    <state width="1008" height="204" key="GridCell.Tab.1.left" timestamp="1597636118141">
+    <state width="1325" height="313" key="GridCell.Tab.0.center/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821419" />
+    <state width="1325" height="313" key="GridCell.Tab.0.left" timestamp="1597842821419">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.1.left/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
-    <state width="1008" height="204" key="GridCell.Tab.1.right" timestamp="1597636118141">
+    <state width="1325" height="313" key="GridCell.Tab.0.left/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821419" />
+    <state width="1325" height="313" key="GridCell.Tab.0.right" timestamp="1597842821419">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state width="1008" height="204" key="GridCell.Tab.1.right/95.0.1825.1080@95.0.1825.1080" timestamp="1597636118141" />
+    <state width="1325" height="313" key="GridCell.Tab.0.right/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821419" />
+    <state width="1325" height="313" key="GridCell.Tab.1.bottom" timestamp="1597842821420">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="313" key="GridCell.Tab.1.bottom/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821420" />
+    <state width="1325" height="313" key="GridCell.Tab.1.center" timestamp="1597842821420">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="313" key="GridCell.Tab.1.center/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821420" />
+    <state width="1325" height="313" key="GridCell.Tab.1.left" timestamp="1597842821419">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="313" key="GridCell.Tab.1.left/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821419" />
+    <state width="1325" height="313" key="GridCell.Tab.1.right" timestamp="1597842821420">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="313" key="GridCell.Tab.1.right/95.0.1825.1080@95.0.1825.1080" timestamp="1597842821420" />
+    <state width="1325" height="294" key="GridCell.Tab.2.bottom" timestamp="1597842820621">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="294" key="GridCell.Tab.2.bottom/95.0.1825.1080@95.0.1825.1080" timestamp="1597842820621" />
+    <state width="1325" height="294" key="GridCell.Tab.2.center" timestamp="1597842820621">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="294" key="GridCell.Tab.2.center/95.0.1825.1080@95.0.1825.1080" timestamp="1597842820621" />
+    <state width="1325" height="294" key="GridCell.Tab.2.left" timestamp="1597842820621">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="294" key="GridCell.Tab.2.left/95.0.1825.1080@95.0.1825.1080" timestamp="1597842820621" />
+    <state width="1325" height="294" key="GridCell.Tab.2.right" timestamp="1597842820621">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state width="1325" height="294" key="GridCell.Tab.2.right/95.0.1825.1080@95.0.1825.1080" timestamp="1597842820621" />
+    <state x="537" y="198" key="Maven.ArtifactSearchDialog" timestamp="1597716519899">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="537" y="198" key="Maven.ArtifactSearchDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597716519899" />
     <state x="1200" y="249" key="NewModule_or_Project.wizard" timestamp="1597660895281">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
     <state x="1200" y="249" key="NewModule_or_Project.wizard/95.0.1825.1080@95.0.1825.1080" timestamp="1597660895281" />
+    <state x="904" y="235" key="RollbackChangesDialog" timestamp="1597913850058">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="904" y="235" key="RollbackChangesDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597913850058" />
     <state x="436" y="152" width="1187" height="741" key="SettingsEditor" timestamp="1597669230062">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
@@ -209,17 +462,90 @@
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/95.0.1825.1080@95.0.1825.1080" timestamp="1597409479968" />
-    <state x="798" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1597660562216">
+    <state x="1149" y="417" key="VCS.ChangelistChooser" timestamp="1597721399149">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="798" y="283" key="com.intellij.ide.util.TipDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597660562216" />
+    <state x="1149" y="417" key="VCS.ChangelistChooser/95.0.1825.1080@95.0.1825.1080" timestamp="1597721399149" />
+    <state x="1093" y="270" key="Vcs.Push.Dialog.v2" timestamp="1597669965894">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="1093" y="270" key="Vcs.Push.Dialog.v2/95.0.1825.1080@95.0.1825.1080" timestamp="1597669965894" />
+    <state x="798" y="283" key="com.intellij.ide.util.TipDialog" timestamp="1597902254367">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="798" y="283" key="com.intellij.ide.util.TipDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597902254367" />
     <state x="1297" y="176" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597460650187">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
     <state x="1297" y="176" key="com.intellij.testIntegration.createTest.CreateTestDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597460650187" />
-    <state x="621" y="168" key="new project wizard" timestamp="1597660885402">
+    <state x="513" y="279" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597837506676">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="621" y="168" key="new project wizard/95.0.1825.1080@95.0.1825.1080" timestamp="1597660885402" />
+    <state x="513" y="279" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/95.0.1825.1080@95.0.1825.1080" timestamp="1597837506676" />
+    <state x="728" y="321" key="git4idea.merge.GitPullDialog" timestamp="1597902357862">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="728" y="321" key="git4idea.merge.GitPullDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597902357862" />
+    <state x="514" y="167" key="new project wizard" timestamp="1597819330511">
+      <screen x="95" y="0" width="1825" height="1080" />
+    </state>
+    <state x="514" y="167" key="new project wizard/95.0.1825.1080@95.0.1825.1080" timestamp="1597819330511" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://D:/1709Cgit/code-template/src/main/java/com/itheima/code/util/StringUtils.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/controller/FileController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/controller/FileController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/controller/FileController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/util/FastDFSClient.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/util/FastDFSClient.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/util/FastDFSClient.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/controller/FileController.java</url>
+          <line>20</line>
+          <properties class="com.changgou.controller.FileController" method="upload">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/changgou-service-file/src/main/java/com/changgou/util/FastDFSClient.java</url>
+          <line>42</line>
+          <properties class="com.changgou.util.FastDFSClient" method="upload">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
